@@ -5,12 +5,14 @@
 ---
 
 ### About Me
-> “Hai! Saya Rosmontis (ꈍoꈍ🌸) 
+> “Hai! Saya Rosmontis (ꈍoꈍ🌸)
+> 
 > Seorang gadis penulis yang suka menciptakan dunia digital penuh warna dan imajinasi. Setiap proyek saya adalah langkah kecil menuju sesuatu yang menyenangkan! 🕊️
 
-- Writer, Developer, Composer  
-- Tinkering with AI, bots, and interactive media  
-- Lover of minimalism with a pastel heart
+- Menulis adalah caraku bicara 
+- Ngoding sambil nyemil
+- Sering utak-atik AI dan bot lucu
+- Pecinta Anime dan hal kawaii 
 
 ---
 
