@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:ffffff&height=200&text=Welcome%20to%20My%20Profile&fontAlignY=40&desc=Rosmontis-Chan's%20Digital%20Sanctuary&descAlign=65&descAlignY=65" />
 
-<p align="center">
-  <img src="https://i.imgur.com/sJg1vYZ.png" width="180" alt="Rosmontis Avatar"/>
-</p>
+<img src="https://github.com/Rosmontis-Chan/Rosmontis-Chan/blob/main/illust_121641350_20250508_103803.png?raw=true" width="100%" />
 
 ---
 
