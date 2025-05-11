@@ -18,13 +18,6 @@ And builds dreams line by line.
 
 ---
 
-### Current Projects
-- `Chatbot-WhatsApp`: AI-enhanced conversation via Meta API  
-- `Nanami ChatGPT`: A stylish AI character chat on Hugging Face  
-- `VITS Voice Synth`: Multi-language AI voice system with elegant UI
-
----
-
 ### Tools & Tech I Use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,php" alt="Tools & Tech"/>
