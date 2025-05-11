@@ -5,12 +5,7 @@
 ---
 
 ### About Me
-> “Precision in creation is poetry in motion.”
-
-Hi, I’m **Rosmontis-Chan**,  
-A curious builder who writes code like stanzas,  
-Composes music like stories,  
-And builds dreams line by line.
+> “Hai! Saya Rosmontis-Chan 🍥, pengembang dan penulis yang menciptakan dunia digital penuh warna dan imajinasi. Setiap proyek saya adalah langkah kecil menuju sesuatu yang menyenangkan! 🕊️
 
 - Writer, Developer, Composer  
 - Tinkering with AI, bots, and interactive media  
