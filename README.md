@@ -18,13 +18,6 @@ And builds dreams line by line.
 
 ---
 
-### Current Projects
-- `Chatbot-WhatsApp`: AI-enhanced conversation via Meta API  
-- `Nanami ChatGPT`: A stylish AI character chat on Hugging Face  
-- `VITS Voice Synth`: Multi-language AI voice system with elegant UI
-
----
-
 ### Tools & Tech I Use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,github,vercel,gradio" />
@@ -36,8 +29,6 @@ And builds dreams line by line.
 <p align="center">
   <a href="https://github.com/Rosmontis-Chan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://huggingface.co/Rosmontis-Chan"><img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Coming%20Soon-8ecae6?style=for-the-badge" /></a>
-</p>
 
 ---
 
