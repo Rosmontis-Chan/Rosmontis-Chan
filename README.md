@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-> “Hai! Saya Rosmontis-Chan 🍥, pengembang dan penulis yang menciptakan dunia digital penuh warna dan imajinasi. Setiap proyek saya adalah langkah kecil menuju sesuatu yang menyenangkan! 🕊️
+> “Hai! Saya Rosmontis-Chan 🍥, seorang gadis penulis yang suka menciptakan dunia digital penuh warna dan imajinasi. Setiap proyek saya adalah langkah kecil menuju sesuatu yang menyenangkan! 🕊️
 
 - Writer, Developer, Composer  
 - Tinkering with AI, bots, and interactive media  
